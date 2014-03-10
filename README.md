@@ -12,6 +12,12 @@ Version
 
 1.0
 
+## Donation
+You can support the project and thank the author for his hard work :)
+
+* **[GitTip](https://www.gittip.com/arshadalisoomro/)** - arshadalisoomro
+
+
 
 Usage
 --------------
