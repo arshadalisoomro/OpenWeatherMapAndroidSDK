@@ -30,7 +30,7 @@ Developer
 Arshad Ali Soomro arshadalisoomro7@gmail.com
 License
 ----
-Copyright 2014-15 Arshad Ali Soomro,
+````Copyright 2014-15 Arshad Ali Soomro,
   http://source-code-android.blogspot.com 
   
   Licensed under the
@@ -44,5 +44,4 @@ Copyright 2014-15 Arshad Ali Soomro,
  software distributed under the License is distributed on an "AS IS"
  BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express
  or implied. See the License for the specific language governing
- permissions and limitations under the License. 
-    
+ permissions and limitations under the License````
